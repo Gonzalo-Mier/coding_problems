@@ -13,5 +13,5 @@ Each file contains the link to the problem and the solution.
 Problems usually are solved as a pair-programming training technique between:
 
 * [Gonmiermu](https://github.com/gonmiermu)
-* [JLPaneque](https://github.com/JLpaneque)  
+* [JulioLP](https://github.com/JulioLP)  
 
